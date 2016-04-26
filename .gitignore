@@ -1,0 +1,7 @@
+/visallo-mvn-tutorial-repo/alf_data_dev
+*/target
+*/.idea
+*/*/target
+*/*/.idea
+*/*.iml
+*/*/*.iml
