@@ -202,7 +202,7 @@ public class App
 
     //private String serviceUrl = "http://localhost:8080/alfresco/cmisatom"; // Uncomment for Atom Pub binding
     //private String serviceUrl = "http://localhost:8080/alfresco/cmis"; // Uncomment for Web Services binding
-    private String serviceUrl = "http://localhost:8080/alfresco/api/-default-/public/cmis/versions/1.0/atom"; // Uncomment for Atom Pub binding
+    private String serviceUrl = "http://localhost:8082/alfresco/api/-default-/public/cmis/versions/1.0/atom"; // Uncomment for Atom Pub binding
     //private String serviceUrl = "http://localhost:8080/alfresco/api/-default-/public/cmis/versions/cmisws"; // Uncomment for Web Services binding
     //private String serviceUrl = "http://localhost:8080/alfresco/api/-default-/public/cmis/versions/1.1/atom"; // Uncomment for Atom Pub binding
     //private String serviceUrl = "http://jpotts.alfresco-laptop.com:8081/chemistry/browser";
